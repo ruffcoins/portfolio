@@ -263,29 +263,29 @@ export default async function Home() {
             Frontend Engineer, entrepreneur, and lifelong learner.
           </h1>
           <p className="mt-6 max-w-2xl text-base text-zinc-600 dark:text-zinc-400">
-            I’m Anthony, a frontend engineer and entrepreneur based in Lagos,
-            Nigeria. Passionate about innovative software solutions that empower
+            I’m Anthony, a frontend engineer and entrepreneur based in Lagos.
+            Passionate about innovative software solutions that empower
             individuals. Lifelong learner, continuously seeking growth
             opportunities in the dynamic industry of tech and business.
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
-              href="https://twitter.com"
+              href="https://twitter.com/anthonynzub"
               aria-label="Follow on Twitter"
               icon={TwitterIcon}
             />
             <SocialLink
-              href="https://instagram.com"
+              href="https://instagram.com/anthonynzub"
               aria-label="Follow on Instagram"
               icon={InstagramIcon}
             />
             <SocialLink
-              href="https://github.com"
+              href="https://github.com/ruffcoins"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
             />
             <SocialLink
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/anthony-chukwujekwu"
               aria-label="Follow on LinkedIn"
               icon={LinkedInIcon}
             />

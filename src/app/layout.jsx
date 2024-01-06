@@ -10,7 +10,7 @@ export const metadata = {
       'Anthony Chukwujekwu - Frontend Engineer, entrepreneur, and lifelong learner',
   },
   description:
-    'I’m Anthony, a frontend engineer and entrepreneur based in Lagos, Nigeria. Passionate about innovative software solutions that empower individuals. Lifelong learner, continuously seeking growth opportunities in the dynamic industry of tech and business.',
+    'I’m Anthony, a frontend engineer and entrepreneur based in Lagos. Passionate about innovative software solutions that empower individuals. Lifelong learner, continuously seeking growth opportunities in the dynamic industry of tech and business.',
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
