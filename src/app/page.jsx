@@ -221,7 +221,7 @@ function Resume() {
         ))}
       </ol>
       <Button
-        href="https://docs.google.com/document/d/16NBNFi4YrCuxcz0cuY61CV004PGfJA9agYVkdLOGH6c/edit?usp=sharing"
+        href="https://drive.google.com/file/d/1kZA_z9WPQ6QS6ZB1rD-uHswHV0kdkFu4/view?usp=sharing"
         variant="secondary"
         className="group mt-6 w-full"
       >
