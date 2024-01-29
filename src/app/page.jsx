@@ -272,7 +272,7 @@ export default async function Home() {
           <p className="mt-6 max-w-2xl text-base text-zinc-600 dark:text-zinc-400">
             I’m Anthony, a frontend engineer and entrepreneur based in Lagos.
             Passionate about innovative software solutions that empower
-            individuals. Lifelong learner, continuously seeking growth
+            individuals, lifelong learner, continuously seeking growth
             opportunities in the dynamic industry of tech and business.
           </p>
           <div className="mt-6 flex gap-6">
